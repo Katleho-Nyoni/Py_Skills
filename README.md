@@ -13,4 +13,4 @@ Below are projects I created using the Python Programming languange. The project
 
 The following is a Command Line Interface(CLI) application. The chosen Large Language Models(LLM) for each project could be different. Each have their own strengths and weaknesses.
 
-  - Static Chatbot: This is the simplest chatbot which you can interact with it by changing the question you give it.
+  - [**Static Chatbot**](https://github.com/Katleho-Nyoni/Py_Skills/blob/main/Proj/Chatbot/StaticBot.ipynb): This is the simplest chatbot which you can interact with it by changing the question you give it.
