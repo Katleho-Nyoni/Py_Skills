@@ -14,3 +14,6 @@ Below are projects I created using the Python Programming languange. The project
 The following is a Command Line Interface(CLI) application. The chosen Large Language Models(LLM) for each project could be different. Each have their own strengths and weaknesses.
 
   - [**Static Chatbot**](https://github.com/Katleho-Nyoni/Py_Skills/blob/main/Proj/Chatbot/StaticBot.ipynb): This is the simplest chatbot which you can interact with it by changing the question you give it.
+
+The following are concerned with advanced usage of LLMs and modifying them or using them for specialized tasks.
+  - [**Model Fine-Tuning**](https://github.com/Katleho-Nyoni/Py_Skills/blob/main/Proj/Models/FineTune.ipynb): This project fine-tunes a pre-trained model so that it can specialize on the data is trained on.
